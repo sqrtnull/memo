@@ -1,0 +1,15 @@
+
+title: memo
+author: sqrtnull
+email: sqrtnull@gmail.com
+description: >-
+  memo
+baseurl: /memo
+url: https://sqrtnull.github.io
+twitter_username: zelnyok
+github_username:  sqrtnull
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

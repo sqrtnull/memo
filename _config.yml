@@ -13,3 +13,7 @@ github_username:  sqrtnull
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  memo:
+    output: true
